@@ -1,0 +1,345 @@
+.header{
+    background-color: #222222;
+    height: 75px;
+}
+
+.wrap{
+   width: 1140px;
+   margin: 0 auto;
+}
+
+.head1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logosearch{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.menuprofile{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.prewie{
+    height: 764px;
+    background-color: #F1E4E6;
+}
+
+.fototext{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.textprewie{
+    display: inline-flex;
+    align-items: center;
+}
+
+.colorline{
+    width: 12px;
+    height: 92px;
+    background-color: #F16D7F;
+}
+
+.brandtext{
+    margin-left: 16px;
+}
+
+.collection{
+    height: 470px;
+    margin-top:63px;
+}
+
+
+.male{
+    display:flex;
+    flex-direction: row;
+}
+
+.male h5{
+        position: absolute;  
+        top: 105px;
+        left:0;
+        width: 100%;
+        text-align: center;
+        margin-top: 0px;
+        color:#FFFFFF;
+}
+
+.male h3{
+    position: absolute;  
+    top: 105px;
+    left:0;
+    width: 100%;
+    color:white;
+    text-align: center;
+    color:#F16D7F;
+}
+
+.men{
+    margin-left: 30px;   
+    position: relative;
+    width: 100%;
+}
+
+.kids{
+    margin-left: 30px;
+    position: relative;
+    width: 100%;
+}
+
+.accesories{
+    margin-top: 30px;
+    position: relative;
+    width: 100%;
+    height: 50px;
+}
+
+.nomale h3{
+    position: absolute;  
+    width: 100%;
+    color:black;
+    text-align: center;
+    top: 75px;
+    color:#F16D7F;
+}
+
+.nomale h5{
+    position: absolute;  
+    width: 100%;
+    color:#FFFFFF;
+    text-align: center;
+    left: 0;
+    top: 55px;
+}
+
+.women{
+    position: relative;
+    width: 100%;
+}
+
+.main-popular{
+    text-align: center;
+}
+
+.main-popular h1{
+    font-family: Lato;
+    font-size: 30px;
+    line-height: 36px;
+}
+
+.main-popular p{
+    font-family: Lato;
+    font-size: 14px;
+    line-height: 17px;
+    color: #9F9F9F;
+
+}
+
+.popular{
+    height: 1395px;
+    margin: 97px;
+    margin-left:;
+}
+.popular-stroke-one{
+    display:flex;
+    flex-direction: row;
+    margin-top: 48px;
+}
+
+.popular-stroke-two{
+    display:flex;
+    flex-direction: row;
+}
+
+.popular-stroke-one text{
+   text-align: center;
+}
+
+.popular1{
+    background-color: #F8F8F8 ;
+}
+
+.popular2{
+    background-color: #F8F8F8 ;
+    margin-left: 30px;
+}
+
+.popular3{
+    background-color: #F8F8F8 ;
+    margin-left: 30px;
+}
+
+.popular4{
+    background-color: #F8F8F8 ;
+    margin-top: 30px;
+}
+
+.popular5{
+    background-color: #F8F8F8 ;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.popular6{
+    background-color: #F8F8F8 ;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.button-more{
+    margin-top: 48px;
+    text-align: center;
+}
+
+.text{
+  margin-left: 16px;
+  margin-bottom: 20px;
+}
+
+.text h6{
+    font-size: 13px;
+    line-height: 16px;
+    color: #000000;
+    
+    
+}
+
+.text p{
+    font-size: 14px;
+    line-height: 17px;
+    color: #5D5D5D;
+}
+
+.text bottom{
+    font-size: 16px;
+    line-height: 19px;
+    color: #F16D7F;
+}
+
+.button-more button{
+    width: 212px;
+    height: 48px;
+    border: 1px solid #FF6A6A; 
+    font-size: 16px; 
+    padding: 5px 20px; 
+    line-height: 19px;
+    color: #F26376;
+    background-color: white;
+}
+
+.advantages{
+    background-color: #222224;;
+    height: 341px;
+}
+
+.list-advantages{
+    display: inline-flex;
+    justify-content: space-around;
+}
+
+.list-advantages div{
+    margin-top: 104px;
+    text-align: center;
+}
+
+.list-advantages h3{
+    color: #FBFBFB;
+}
+
+.list-advantages p{
+    color: #FBFBFB;
+}
+
+.send{
+    background-color: rgba(244, 244, 244, 0.7);
+    background-image: url(img/subscribe.png);
+    height: 448px;
+    display: flex;
+    align-items: center;
+}
+
+.fasub{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+
+
+
+.subscribe h2{
+    font-weight: bold;
+}
+
+.subscribe button{
+    width: 100px;
+    height: 49px;
+    background-color: #F16D7F;
+    color: white;
+    font-size: 14px;  
+    line-height: 17px;
+    border: none;
+}
+
+.subscribe input{
+   background-color: #E1E1E1;
+   width: 322,6px;
+   height: 49px;
+   border: none;
+   align-items: center;
+}
+
+
+.footer{
+    height: 79px;
+    background-color: #222224;
+    margin-top: -5px;
+}
+
+.bothfoot{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.social{
+    display: flex;
+    flex-direction: row;
+}
+
+.copy {
+    margin-top: 15px;
+}
+
+.copy p{
+    color: #FBFBFB;
+}
+
+.social{
+    width: 147,6px;
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 24px;
+    margin-left: 655px;
+}
+
+.insta{
+    margin-left:5px;
+}
+
+.pinterest{
+    margin-left:7px;
+}
+
+.twitter{
+    margin-left: 7px;
+}
